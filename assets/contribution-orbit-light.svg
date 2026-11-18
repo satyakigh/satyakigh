@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title description">
+  <title id="title">Satyaki Ghosh's public open-source contribution map</title>
+  <desc id="description">More than 600 merged public pull requests across AWS CloudFormation and AWS developer-tool repositories.</desc>
+
+  <rect width="1200" height="650" rx="16" fill="#ffffff"/>
+  <rect x="0.5" y="0.5" width="1199" height="649" rx="15.5" fill="none" stroke="#d0d7de"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="54" y="52" fill="#1f2328" font-size="26" font-weight="700">Satyaki Ghosh</text>
+    <text x="54" y="80" fill="#59636e" font-size="15">Public open-source contribution map</text>
+    <text x="1146" y="53" text-anchor="end" fill="#1f2328" font-size="28" font-weight="700">600+</text>
+    <text x="1146" y="80" text-anchor="end" fill="#59636e" font-size="13">merged public pull requests</text>
+    <path d="M54 106H1146" stroke="#d8dee4"/>
+
+    <g fill="none" stroke="#8c959f" stroke-width="1.25">
+      <path d="M600 191V217H404V236M600 217H963V236"/>
+    </g>
+
+    <rect x="450" y="127" width="300" height="64" rx="8" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="474" y="154" fill="#1f2328" font-size="16" font-weight="650">satyakigh</text>
+    <text x="474" y="176" fill="#59636e" font-size="13">AWS infrastructure as code</text>
+    <circle cx="718" cy="159" r="7" fill="#2da44e"/>
+
+    <g fill="none" stroke-width="1.25">
+      <path d="M404 306V337H162M404 337H624M162 337V357M393 337V357M624 337V357M162 429V454M393 429V454M624 429V454" stroke="#bc6f00" stroke-opacity="0.55"/>
+      <path d="M963 306V337H868M963 337H1058M868 337V357M1058 337V357M868 429V454M1058 429V454M1058 526V551" stroke="#0969da" stroke-opacity="0.55"/>
+    </g>
+
+    <rect x="54" y="236" width="700" height="70" rx="8" fill="#fff8e6" stroke="#d4a72c"/>
+    <rect x="54" y="236" width="5" height="70" rx="2.5" fill="#bc6f00"/>
+    <text x="78" y="266" fill="#633c01" font-size="17" font-weight="700">aws-cloudformation</text>
+    <text x="78" y="289" fill="#7d4e00" font-size="13">language tooling, validation, policy, and schemas</text>
+    <text x="724" y="279" text-anchor="end" fill="#7d4e00" font-size="25" font-weight="700">590+</text>
+
+    <rect x="780" y="236" width="366" height="70" rx="8" fill="#eef6ff" stroke="#54aeff"/>
+    <rect x="780" y="236" width="5" height="70" rx="2.5" fill="#0969da"/>
+    <text x="804" y="266" fill="#0a3069" font-size="17" font-weight="700">aws</text>
+    <text x="804" y="289" fill="#315f85" font-size="13">CDK, IDEs, agents, and RFCs</text>
+    <text x="1118" y="279" text-anchor="end" fill="#0550ae" font-size="25" font-weight="700">20+</text>
+
+    <g>
+      <rect x="54" y="357" width="216" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="72" y="385" fill="#1f2328" font-size="13.5" font-weight="650">Language Server</text>
+      <text x="72" y="410" fill="#7d4e00" font-size="18" font-weight="700">275+</text>
+
+      <rect x="285" y="357" width="216" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="303" y="385" fill="#1f2328" font-size="13.5" font-weight="650">CloudFormation Validate</text>
+      <text x="303" y="410" fill="#7d4e00" font-size="18" font-weight="700">260+</text>
+
+      <rect x="516" y="357" width="216" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="534" y="385" fill="#1f2328" font-size="13.5" font-weight="650">CloudFormation VS Code</text>
+      <text x="534" y="410" fill="#7d4e00" font-size="18" font-weight="700">35+</text>
+
+      <rect x="54" y="454" width="216" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="72" y="482" fill="#1f2328" font-size="13.5" font-weight="650">CloudFormation Guard</text>
+      <text x="72" y="507" fill="#7d4e00" font-size="18" font-weight="700">6+</text>
+
+      <rect x="285" y="454" width="216" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="303" y="482" fill="#1f2328" font-size="13.5" font-weight="650">Enhanced Schemas</text>
+      <text x="303" y="507" fill="#7d4e00" font-size="18" font-weight="700">5+</text>
+
+      <rect x="516" y="454" width="216" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="534" y="482" fill="#1f2328" font-size="13.5" font-weight="650">cfn-lint</text>
+      <text x="534" y="507" fill="#7d4e00" font-size="18" font-weight="700">3+</text>
+    </g>
+
+    <g>
+      <rect x="780" y="357" width="176" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="798" y="385" fill="#1f2328" font-size="13" font-weight="650">AWS CDK</text>
+      <text x="798" y="410" fill="#0550ae" font-size="18" font-weight="700">7+</text>
+
+      <rect x="970" y="357" width="176" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="988" y="385" fill="#1f2328" font-size="13" font-weight="650">Toolkit for VS Code</text>
+      <text x="988" y="410" fill="#0550ae" font-size="18" font-weight="700">7+</text>
+
+      <rect x="780" y="454" width="176" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="798" y="482" fill="#1f2328" font-size="13" font-weight="650">Toolkit for JetBrains</text>
+      <text x="798" y="507" fill="#0550ae" font-size="18" font-weight="700">4+</text>
+
+      <rect x="970" y="454" width="176" height="72" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="988" y="482" fill="#1f2328" font-size="13" font-weight="650">Agent Toolkit</text>
+      <text x="988" y="507" fill="#0550ae" font-size="18" font-weight="700">1+</text>
+
+      <rect x="970" y="551" width="176" height="56" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+      <text x="988" y="578" fill="#1f2328" font-size="13" font-weight="650">AWS CDK RFCs</text>
+      <text x="1118" y="582" text-anchor="end" fill="#0550ae" font-size="16" font-weight="700">1+</text>
+    </g>
+
+  </g>
+</svg>
